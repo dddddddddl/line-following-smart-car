@@ -46,4 +46,3 @@ extern struct SENSORS sensor;
 void shift_reg_init(void);    //Initialize hardware
 void reload_shift_reg(void);  //Refresh shift-register readings
 #endif
-
