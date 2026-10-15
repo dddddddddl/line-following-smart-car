@@ -1,0 +1,10 @@
+.DS_Store
+__MACOSX/
+.pio/
+.vscode/
+__pycache__/
+*.py[cod]
+*.o
+*.elf
+*.hex
+*.bin
